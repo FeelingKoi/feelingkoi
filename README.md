@@ -1,3 +1,5 @@
+# FeelingKoi
+Hello there, I'm FeelingKoi but I usually just go by the name 'Koi' on the internet. 
 <!-- [<img src="https://koisaquarium.com/media/FKRosLogo.png">](http://example.com/) -->
 <!--
 **FeelingKoi/feelingkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
