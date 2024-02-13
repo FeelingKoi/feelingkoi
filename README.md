@@ -1,4 +1,4 @@
-# FeelingKoi
+# ✨ FeelingKoi
 Hello there, I'm FeelingKoi but I usually just go by the name 'Koi' on the internet. 
 <!-- [<img src="https://koisaquarium.com/media/FKRosLogo.png">](http://example.com/) -->
 <!--
