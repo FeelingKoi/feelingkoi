@@ -1,4 +1,4 @@
-[<img src="https://koisaquarium.com/media/FKRosLogo.png">](http://example.com/)
+<!-- [<img src="https://koisaquarium.com/media/FKRosLogo.png">](http://example.com/) -->
 <!--
 **FeelingKoi/feelingkoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
