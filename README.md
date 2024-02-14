@@ -4,6 +4,13 @@ Hello there, I'm FeelingKoi but I usually just go by the name 'Koi' on the inter
 ### Current Projects
 - Koicraft (Minecraft Texture/Resource Pack)
 - Tähdetär (2D Pixel Art Platformer in Godot)
+- Commissions + Wallpaper Art
+
+### Future / Dream Projects 
+- Cute TV Home Menu (Weather/News App for TV Idle)
+- Build Actual Server PC for Jellyfin + Home Assistant
+- Koicraft Modpack for Server
+- Dress Up / Pet Collecting Game
   
 <!-- [<img src="https://koisaquarium.com/media/FKRosLogo.png">](http://example.com/) -->
 <!--
