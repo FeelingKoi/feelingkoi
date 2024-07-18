@@ -1,6 +1,5 @@
 # ✨ FeelingKoi
 Hello there, I'm FeelingKoi but I usually just go by the name 'Koi' on the internet. I'm primarily a portrait artist, but I also like to fiddle with coding despite being very new to it. I'm on a life's mission to provide cute alternatives to what I consider a growing grey and dull world. I want to do 'x' but feminine, I want to try and create things that have already been done, but apply my knowledge of art and taste in aesthetics to make them cute.
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 ### Current Projects
 - Koicraft (Minecraft Texture/Resource Pack)
 - Tähdetär (2D Pixel Art Platformer in Godot)
